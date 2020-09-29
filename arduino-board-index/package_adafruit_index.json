@@ -96,11 +96,11 @@
         {
           "name": "Adafruit nRF52 (SV)",
           "architecture": "nrf52",
-          "version": "0.1021.0",
+          "version": "0.121.0",
           "category": "Adafruit (SV)",
-          "url": "https://speechvive.github.io/arduino-board-index/boards/adafruit-nrf52-0.1021.0.tar.bz2",
-          "archiveFileName": "adafruit-nrf52-0.1021.0.tar.bz2",
-          "checksum": "SHA-256:8d4452cf5bd7abff82a643be82c5852bd1c095caa39e6a28b3fcace141a3e132",
+          "url": "https://speechvive.github.io/arduino-board-index/boards/adafruit-nrf52-0.121.0.tar.bz2",
+          "archiveFileName": "adafruit-nrf52-0.121.0.tar.bz2",
+          "checksum": "SHA-256:0b43e29c57746303d0d761c9ad6001c03447e0db76d1c5af74a4e2a1b7743053",
           "size": "19240687",
           "help": {
             "online": "https://forums.adafruit.com"
