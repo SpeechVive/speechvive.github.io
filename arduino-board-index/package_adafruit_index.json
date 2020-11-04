@@ -91,19 +91,19 @@
       "help": {
         "online": "https://forums.adafruit.com"
       },
-      "maintainer": "Adafruit (SV)",
+      "maintainer": "SpeechVive",
       "platforms": [
         {
-          "name": "Adafruit nRF52 (SV)",
+          "name": "SpeechVive nRF52",
           "architecture": "nrf52",
-          "version": "0.121.0",
-          "category": "Adafruit (SV)",
-          "url": "https://speechvive.github.io/arduino-board-index/boards/adafruit-nrf52-0.121.0.tar.bz2",
-          "archiveFileName": "adafruit-nrf52-0.121.0.tar.bz2",
-          "checksum": "SHA-256:0b43e29c57746303d0d761c9ad6001c03447e0db76d1c5af74a4e2a1b7743053",
-          "size": "19240687",
+          "version": "0.21.0",
+          "category": "SpeechVive",
+          "url": "https://speechvive.github.io/arduino-board-index/boards/speechvive-nrf52-0.21.0.tar.bz2",
+          "archiveFileName": "speechvive-nrf52-0.21.0.tar.bz2",
+          "checksum": "SHA-256:594b406ac07db5cba08251a38c456bb0cf30b1d8dc6069fea0b74babca7f06bb",
+          "size": "19230852",
           "help": {
-            "online": "https://forums.adafruit.com"
+            "online": "https://github.com/SpeechVive/Adafruit_nRF52_Arduino"
           },
           "boards": [
             {
@@ -126,6 +126,9 @@
             },
             {
               "name": "Adafruit CLUE"
+            },
+            {
+              "name": "SpeechVive nRF52840"
             }
           ],
           "toolsDependencies": [
