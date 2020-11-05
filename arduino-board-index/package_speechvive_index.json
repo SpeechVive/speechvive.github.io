@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "websiteURL": "https://adafruit.com",
+      "websiteURL": "https://github.com/SpeechVive/Adafruit_nRF52_Arduino",
       "tools": [
         {
           "name": "arm-none-eabi-gcc",
@@ -86,10 +86,10 @@
           "version": "9.4.0"
         }
       ],
-      "name": "adafruit",
-      "email": "info@adafruit.com",
+      "name": "speechvive",
+      "email": "dev@speechive.com",
       "help": {
-        "online": "https://forums.adafruit.com"
+        "online": "https://github.com/SpeechVive/Adafruit_nRF52_Arduino"
       },
       "maintainer": "SpeechVive",
       "platforms": [
@@ -100,32 +100,14 @@
           "category": "SpeechVive",
           "url": "https://speechvive.github.io/arduino-board-index/boards/speechvive-nrf52-0.21.0.tar.bz2",
           "archiveFileName": "speechvive-nrf52-0.21.0.tar.bz2",
-          "checksum": "SHA-256:2d8c3804ca9914e265210bacf18d54232d6453fdd4454df3f1f566f4c2e7c81f",
-          "size": "19232696",
+          "checksum": "SHA-256:7d11024840e6730ba9e368134aba4f97d8f3ba267575a462e10a9207babfd46c",
+          "size": "19208855",
           "help": {
             "online": "https://github.com/SpeechVive/Adafruit_nRF52_Arduino"
           },
           "boards": [
             {
-              "name": "Adafruit Feather nRF52832"
-            },
-            {
               "name": "Adafruit Feather nRF52840 Express"
-            },
-            {
-              "name": "Adafruit Feather nRF52840 Sense"
-            },
-            {
-              "name": "Adafruit Circuit Playground Bluefruit"
-            },
-            {
-              "name": "Adafruit Metro nRF52840 Express"
-            },
-            {
-              "name": "Adafruit ItsyBitsy nRF52840"
-            },
-            {
-              "name": "Adafruit CLUE"
             },
             {
               "name": "SpeechVive nRF52840"
@@ -133,12 +115,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "adafruit",
+              "packager": "speechvive",
               "name": "arm-none-eabi-gcc",
               "version": "9-2019q4"
             },
             {
-              "packager": "adafruit",
+              "packager": "speechvive",
               "name": "nrfjprog",
               "version": "9.4.0"
             }
