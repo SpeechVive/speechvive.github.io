@@ -96,12 +96,12 @@
         {
           "name": "SpeechVive nRF52",
           "architecture": "nrf52",
-          "version": "0.21.0",
+          "version": "0.21.1",
           "category": "SpeechVive",
-          "url": "https://speechvive.github.io/arduino-board-index/boards/speechvive-nrf52-0.21.0.tar.bz2",
-          "archiveFileName": "speechvive-nrf52-0.21.0.tar.bz2",
-          "checksum": "SHA-256:25d4e7641f47585f84db468ec12c9f0972c8025e9e46a813b46e628e4a0c6c20",
-          "size": "19204864",
+          "url": "https://speechvive.github.io/arduino-board-index/boards/speechvive-nrf52-0.21.1.tar.bz2",
+          "archiveFileName": "speechvive-nrf52-0.21.1.tar.bz2",
+          "checksum": "SHA-256:e7cc2830bf893427a84f4bcd2bcab6f03d60fc2d74722a0d8acd996179503580",
+          "size": "17039209",
           "help": {
             "online": "https://github.com/SpeechVive/Adafruit_nRF52_Arduino"
           },
